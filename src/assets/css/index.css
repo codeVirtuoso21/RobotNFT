@@ -42,10 +42,10 @@ body{
 
 .home {
     background-image: url('../img/homeWeb.png');
-    background-size: cover;
     height: 56.25rem;
-    width: 100%;
-    margin: 0;
+    width: 1600px;
+    max-width: 100%;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -65,9 +65,18 @@ body{
 
 .mint {
     height: 1120px;
-    width: 100%;
+    max-width: 100%;
 }
 
 .mint-footer div {
     width: 355px;
+}
+
+.roadmap {
+    background-image: url('../img/roadmapWeb.png');
+    width: 1600px;
+    height: 3349px;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 100%;
 }
