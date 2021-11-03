@@ -1,0 +1,45 @@
+/* Text Color */
+.text-black {
+    color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-gray {
+    color: gray;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-blue {
+    color: blue;
+}
+
+/* Background Color */
+.bg-black {
+    background-color: black;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-gray {
+    background-color: gray;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-yellow-dark {
+    background-color: #D57A00;
+}

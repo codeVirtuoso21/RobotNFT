@@ -1,3 +1,8 @@
+import './assets/css/index.css';
+import './assets/css/color.css';
+import './assets/css/font.css';
+import './assets/css/layout.css';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
