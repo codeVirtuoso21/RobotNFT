@@ -27,8 +27,16 @@
     font-size: 3rem;
 }
 
-.f-72 {
+.f-48 {
+    font-size: 3rem;
+}
+
+.f-64 {
     font-size: 4rem;
+}
+
+.f-72 {
+    font-size: 4.5rem;
 }
 
 /* Weight */

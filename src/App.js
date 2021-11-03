@@ -2,6 +2,8 @@ import Header from './components/Header';
 import Home from './components/Home';
 import Mint from './components/Mint';
 import Roadmap from './components/Roadmap';
+import FAQ from './components/FAQ';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
       <Home />
       <Mint />
       <Roadmap />
+      <FAQ />
+      <Footer />
     </>
   );
 }

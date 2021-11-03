@@ -80,3 +80,25 @@ body{
     padding: 0;
     max-width: 100%;
 }
+
+.roadmap-divider {
+    width: 8px;
+    height: 2926px;
+    border-radius: 27px;
+    background: linear-gradient(180deg, #30CBD9 44.79%, #17010B 100%);
+}
+
+.faq {
+    height: 1300px;
+}
+
+.footerMenu div a {
+    text-decoration: none;
+    color: white;
+}
+
+.faq-divider {
+    width: 1200px;
+    height: 1px;
+    background: #EAB000;
+}

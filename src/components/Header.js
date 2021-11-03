@@ -15,7 +15,7 @@ const Header = () => {
             <a href="#mint">Mint</a>
           </div>
           <div>
-            <a href="#loadmap">Loadmap</a>
+            <a href="#roadmap">Roadmap</a>
           </div>
           <div>
             <a href="#faq">FAQ</a>
