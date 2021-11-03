@@ -5,7 +5,7 @@ import Boat from '../assets/img/boat.svg';
 const Header = () => {
   return (
     <div className="header bg-black mainContainer flex itemsCenter">
-      <div className="bg-gray logo mr-60"></div>
+      <div className="bg-gray logo mr-50"></div>
       <div className="text-white fw-bold f-24 flex gap-40">
         <div>
           <a href="#home">Home</a>
