@@ -19,6 +19,10 @@
     color: blue;
 }
 
+.text-yellow-dark {
+    color: #D57A00;
+}
+
 /* Background Color */
 .bg-black {
     background-color: black;

@@ -8,6 +8,18 @@
 .pr-60 {
     padding-right: 60px;
 }
+.pt-48 {
+    padding-top: 48px;
+}
+.pt-24 {
+    padding-top: 24px;
+}
+.pt-60 {
+    padding-top: 60px;
+}
+.pt-100 {
+    padding-top: 100px;
+}
 /* Margin */
 .m0 {
     margin: 0;
@@ -26,7 +38,12 @@
 }
 
 .mainContainer {
-    padding: 0 12.5%;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
 }
 
 /* flex */
@@ -38,14 +55,22 @@
     justify-content: center;
 }
 
+.justifyBetween {
+    justify-content: space-between;
+}
+
+.justifyEnd {
+    justify-content: flex-end;
+}
+
 .itemsCenter {
     align-items: center;
 }
 
-.gap-40 {
+.gap-33 {
     gap: 33px;
 }
 
-.gap-20 {
-    gap: 20px;
+.gap-16 {
+    gap: 16px;
 }

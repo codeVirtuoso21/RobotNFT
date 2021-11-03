@@ -7,6 +7,10 @@
     font-size: 1rem;
 }
 
+.f-18 {
+    font-size: 1.125rem;
+}
+
 .f-20 {
     font-size: 1.25rem;
 }
@@ -19,6 +23,14 @@
     font-size: 2rem;
 }
 
+.f-42 {
+    font-size: 3rem;
+}
+
+.f-72 {
+    font-size: 4rem;
+}
+
 /* Weight */
 .fw-bold{
     font-weight: bold;
@@ -28,7 +40,23 @@
     font-weight: 400;
 }
 
+.fw-600 {
+    font-weight: 600;
+}
+
+.fw-700{
+    font-weight: 700;
+}
+
 /* font family */
 .ff-kanit {
     font-family: 'Kanit'
+}
+
+.lineHeight-100{
+    line-height: 100%;
+}
+
+.lineHeight-130{
+    line-height: 130%;
 }
